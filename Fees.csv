@@ -1,0 +1,25 @@
+Fee_ID,Fee_asatdate,Fee Description,Fee_Amount
+1,2014/01/01,Admin Fee,$3.50
+1,2014/03/01,Admin Fee,$4
+1,2014/05/01,Admin Fee,$5.25
+2,2014/01/01,Disbursements,$1
+2,2014/04/01,Disbursements,$1.25
+3,2014/01/01,Legal Fee,$0.50
+3,2014/04/06,Legal Fee,$1
+3,2014/06/01,Legal Fee,$0.75
+4,2014/01/01,Account Open Flat Fee,$5
+5,2014/01/01,Account Closure Flat Fee,$3
+6,2014/01/01,Stamps,$1.50
+6,2014/04/05,Stamps,$1.75
+6,2014/05/01,Stamps,$2
+7,2014/01/01,Postage,$2
+7,2014/05/18,Postage,$2.15
+8,2014/01/01,Handover Fee,$0.40
+8,2014/05/01,Handover Fee,$0.45
+8,2014/06/01,Handover Fee,$1
+8,2014/07/01,Handover Fee,$1.15
+8,2014/09/01,Handover Fee,$1.20
+8,2014/10/01,Handover Fee,$1.25
+9,2014/01/01,Call Fee,$4
+9,2014/04/11,Call Fee,$5
+9,2014/05/06,Call Fee,$6
